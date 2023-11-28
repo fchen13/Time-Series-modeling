@@ -1,2 +1,2 @@
 # Time-Series-modeling
-trend analysis and prediction
+Time series data is a series of data points collected or recorded at specific time interval. These data points are typically ordered chronologically, allowing for analysis of patterns, trends, and behaviors over time. time series prediction presents its own challenges which are different from other machine-learning problems. We'll delve into some of the features and challenges in this project.
